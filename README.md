@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Mishra  
 
-🎓 **B.Tech in Chemical Engineering** (IIT Tirupati) | 💻 **Full Stack Developer** | 🤖 **Data Enthusiast** | 🌟 Passionate about innovation, problem-solving, and building impactful solutions.
+🎓 **B.Tech, IIT Tirupati** | 💻 **Full Stack Developer** | 🤖 **Data Enthusiast** | 🌟 Passionate about innovation, problem-solving, and building impactful solutions.
 
 ---
 
