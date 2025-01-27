@@ -5,7 +5,7 @@ Software Developer specialized in full-stack web development, cloud deployment, 
 
 ## 📈 **Professional Experience**  
 
-- **Data Analyst Intern** @ MPM InfoSoft (May–July 2024)  
+- **Data Analyst Intern** @ MPM InfoSoft
   Developed apps using computer vision and OCR (EasyOCR) for soil particle detection and text extraction.  
 - **Tech-Product Lead** @ Inter-IIT Tech Meet 12.0  
   Led mobile development using Flutter, MongoDB, and Trumio APIs to enhance user experience.  
@@ -56,8 +56,8 @@ connected the machine itself with IOT enabled database to book and unlock slots 
 ## 🌐 Social Links 
 - **Portfolio**: [vaibhavmsra2021.github.io](https://vaibhavmsra2021.github.io/portfolio_vaibhavmishra/)  
 - **LinkedIn**: [linkedin.com/in/vaibhav-mishra](https://www.linkedin.com/in/vaibhav-mishra-62bb54223/)  
-- **GitHub**: [github.com/vaibhavmsra2021](https://github.com/vaibhavmsra2021)  
+- **GitHub**: [github.com/vaibhavmsra2021](https://github.com/vaibhavmsra2021)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/vaibhavmsra2021) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaibhavmsra2021) 
 
