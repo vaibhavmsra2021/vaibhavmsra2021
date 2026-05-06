@@ -5,6 +5,8 @@ Software Developer specialized in full-stack web development, cloud deployment, 
 
 ## 📈 **Professional Experience**  
 
+- **Founding SDE** @ Ploughback
+  Developed web apps to handle financial operations/agents, microservice architecture, AWS, BullMQ.  
 - **Data Analyst Intern** @ MPM InfoSoft
   Developed apps using computer vision and OCR (EasyOCR) for soil particle detection and text extraction.  
 - **Tech-Product Lead** @ Inter-IIT Tech Meet 12.0  
