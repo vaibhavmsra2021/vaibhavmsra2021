@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaibhav Mishra  
-**B.Tech, IIT Tirupati** | **Full Stack Developer** | **Data Analyst** | **ML Enthusiast** | **Cloud & Devops**
+**B.Tech, IIT Tirupati** | **Full Stack Developer** | **Cloud & Devops**
 
-Software Developer specialized in full-stack web development, cloud deployment, data analysis, and machine learning. Adaptive in all stages of software development from UI-UX, development, testing to deployment processes. Equipped with a diverse and promising skill-set. Gained some hands-on industry work experience on how to collaborate in cross-functional teams, write neat codes and scalable codebase, and build better products for the end users.
+Software Developer specialized in full-stack web development, cloud deployment, and machine learning. Adaptive in all stages of software development from UI-UX, development, testing to deployment processes. Equipped with a diverse and promising skill-set. Gained some hands-on industry work experience on how to collaborate in cross-functional teams, write neat codes and scalable codebase, and build better products for the end users.
 
 ## 📈 **Professional Experience**  
 
