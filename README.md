@@ -56,7 +56,7 @@ and sending SOS in case of any medical emergency.
 connected the machine itself with IOT enabled database to book and unlock slots for users.
 
 ## 🌐 Social Links 
-- **Portfolio**: [vaibhavmsra2021.github.io](https://vaibhavmsra2021.github.io/portfolio_vaibhavmishra/)  
+- **Portfolio**: [vaibhavmsra2021.github.io](https://vaibhavmishra.netlify.app/)  
 - **LinkedIn**: [linkedin.com/in/vaibhav-mishra](https://www.linkedin.com/in/vaibhav-mishra-62bb54223/)  
 - **GitHub**: [github.com/vaibhavmsra2021](https://github.com/vaibhavmsra2021)
 
